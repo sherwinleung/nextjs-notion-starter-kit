@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Sherwinleung Life',
+  name: 'SherwinleungLife',
   domain: 'https://private-income-dad.notion.site/xun-blog-ce0f849f36474dcdbc8481e220e418dc',
   author: 'XUN',
 
